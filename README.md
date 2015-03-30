@@ -13,3 +13,10 @@ General Workflow:
 - Tweet Image and Status Update (using Twitter Gem)
 
 For more information on [Project](http://physicalcomputing.me/post/8-midterm-project)
+
+To use project Need:
+- Ardunino (and button)
+- LIFX (or similiar WIFI bulb)
+- Computer
+
+- Need to Update Twitter Config file, and get serial port working successfully
