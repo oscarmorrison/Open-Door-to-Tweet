@@ -24,4 +24,4 @@ To use project Need:
 Video Example:
 
 
-[![VideoExample](http://img.youtube.com/watch?v=-fvdz6b-8P0/0.jpg)](https://www.youtube.com/watch?v=-fvdz6b-8P0)
+[![VideoExample](http://img.youtube.com/vi/-fvdz6b-8P0/0.jpg)](https://www.youtube.com/watch?v=-fvdz6b-8P0)
